@@ -30,7 +30,7 @@
 	position: absolute;
 	z-index: -1;
 	filter: brightness(15%);
-	background-image: url("/montha-1.jpg");
+	background-image: url("../imges/montha-1.jpg");
 	background-size: cover;
 	background-position: center;
   }
